@@ -1,0 +1,69 @@
+line_center  line_type line_center_index
+  Angstrom                              
+------------ --------- -----------------
+5260.3515625  emission               436
+Al III
+5328.41796875  emission               470
+Fe I, Ca III, Ce I
+5390.478515625  emission               501
+Tm I, N II
+5396.484375  emission               504
+Fe I, Fe II
+5430.517578125  emission               521
+Fe II, Ac I
+5512.59765625  emission               562
+Ce II
+5564.6484375  emission               588
+Mo I, Ce I
+5592.67578125  emission               602
+O III, V I
+5610.693359375  emission               611
+Mo I
+5626.708984375  emission               619
+V I, Dy I
+5690.771484375  emission               651
+Fe II
+5708.7890625  emission               660
+Sc I, Fe I
+5714.794921875  emission               663
+La I, Y I
+5730.810546875  emission               671
+Mo I, N II, V I
+5742.822265625  emission               677
+Sc I, La I
+5750.830078125  emission               681
+Fe III, Mo I
+5754.833984375  emission               683
+O IV
+5780.859375  emission               696
+Fe II
+5840.91796875  emission               726
+C III, O IV
+5870.947265625  emission               741
+C III
+5876.953125  emission               744
+Mo I
+5880.95703125  emission               746
+C III
+5884.9609375  emission               748
+Fe II
+5955.029296875  emission               783
+Fe II
+5975.048828125  emission               793
+Ne I, La I
+5987.060546875  emission               799
+Mo I
+6001.07421875  emission               806
+V I
+6005.078125  emission               808
+Ce I
+6043.115234375  emission               827
+Fe III
+6059.130859375  emission               835
+Al III
+6063.134765625  emission               837
+Ne I
+6071.142578125  emission               841
+Fe II
+6257.32421875  emission               934
+C II, Ac I

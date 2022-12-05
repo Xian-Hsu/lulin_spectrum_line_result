@@ -1,0 +1,85 @@
+ line_center   line_type line_center_index
+   Angstrom                               
+-------------- --------- -----------------
+5402.490234375  emission               507
+Fe II, Fe III, Ta I, Lu I
+5482.568359375  emission               547
+Sc I, Fe II
+5496.58203125  emission               554
+W I
+5500.5859375  emission               556
+Mo I or La I
+5516.6015625  emission               564
+Sc I
+5554.638671875  emission               583
+Sc I?
+5558.642578125  emission               585
+V I?
+5578.662109375  emission               595
+Fe II
+5600.68359375  emission               606
+Fe I
+5612.6953125  emission               612
+Mo I or Ca III
+5622.705078125  emission               617
+Sc I
+5652.734375  emission               632
+Dy I
+5660.7421875  emission               636
+Ac I, Fe I
+5710.791015625  emission               661
+Fe I, N II
+5720.80078125  emission               666
+Cr I, La I
+5732.8125  emission               672
+Ac II, Fe III
+5746.826171875  emission               679
+N II
+5766.845703125  emission               689
+Ta I
+5790.869140625  emission               701
+La I
+5812.890625  emission               712
+Ce I, Fe III
+5828.90625  emission               720
+La I
+5834.912109375  emission               723
+Fe III
+5840.91796875  emission               726
+Mo I, Fe III
+5856.93359375  emission               734
+C II
+5866.943359375  emission               739
+Al II
+5874.951171875  emission               743
+Fe III
+5880.95703125  emission               746
+Ne I
+5900.9765625  emission               756
+Mo I
+5906.982421875  emission               759
+Ne VIII?
+5910.986328125  emission               761
+Ac II
+5922.998046875  emission               767
+Mg II
+5937.01171875  emission               774
+La I, Mg II
+5957.03125  emission               784
+Fe III, Si II
+5965.0390625  emission               788
+Fe II
+5969.04296875  emission               790
+Na VII?
+5981.0546875  emission               796
+Fe III
+6021.09375  emission               816
+Fe III
+6095.166015625  emission               853
+C II, In II, Ne I
+6121.19140625  emission               866
+Fe I
+6177.24609375  emission               894
+V I
+7696.728515625  emission              1653
+Na X?

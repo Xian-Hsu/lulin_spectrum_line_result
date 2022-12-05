@@ -1,0 +1,31 @@
+ line_center   line_type  line_center_index
+   Angstrom                                
+-------------- ---------- -----------------
+5494.580078125 absorption               553
+Fe II
+5500.5859375 absorption               556
+La I, Fe I, Mo I, Ca III
+5532.6171875 absorption               572
+Fe II, Xe I
+5536.62109375 absorption               574
+C II
+5664.74609375 absorption               638
+Na X
+5764.84375 absorption               688
+Ne I, Si XIII, Mg VI
+5939.013671875 absorption               775
+Ne I, Ta I
+5947.021484375 absorption               779
+Tm, I, Fe II
+6107.177734375 absorption               859
+La I
+6151.220703125 absorption               881
+C II, Fe I
+6167.236328125 absorption               889
+C III, Dy I
+6173.2421875 absorption               892
+Ca III, Fe I
+6269.3359375 absorption               940
+Ne I
+6445.5078125 absorption              1028
+Ne I, N III

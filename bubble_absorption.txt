@@ -1,0 +1,19 @@
+ line_center   line_type  line_center_index
+   Angstrom                                
+-------------- ---------- -----------------
+5270.361328125 absorption               441
+Fe II, Be II, Fe III
+5628.7109375 absorption               620
+Cr I
+5632.71484375 absorption               622
+V I, Mo I, Eu I
+5758.837890625 absorption               685
+C III
+5796.875 absorption               704
+N IV, Sn II
+6071.142578125 absorption               841
+Fe II
+6109.1796875 absorption               860
+La I?
+6113.18359375 absorption               862
+Ar II
